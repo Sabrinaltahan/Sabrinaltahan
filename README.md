@@ -1,5 +1,5 @@
 ### Hi Sabrin 👋
-
+I am a student in univercity in Sweden and I live in Trollhättan.
 <!--
 **Sabrinaltahan/Sabrinaltahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
